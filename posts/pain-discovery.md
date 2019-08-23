@@ -2,9 +2,7 @@
 
 title: Pain point discovery
 
-
 ---
-
 
 1. Do you work with a lot of data?
 
@@ -20,8 +18,7 @@ title: Pain point discovery
 
 3. What are your expectations of how things should work?
 
-I am working on something in this field ....
-
+“I am working on something in this field ...”
 
 [Sample Customer
 Discovery interview ](https://soundcloud.com/foundingfreedom/sample-customer-discoverydevelopment-problem-interview)
@@ -38,3 +35,6 @@ Discovery interview ](https://soundcloud.com/foundingfreedom/sample-customer-dis
     [empathize]
   - When did these challenges start to arise?
   - We are building {an application to} ...?
+
+
+

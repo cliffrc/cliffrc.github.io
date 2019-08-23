@@ -11,9 +11,9 @@ seen and known for your specialism.
 
 - Choose the field you were educated in: not necessarily.
 
-- Choose the field you have the most experience in: ...
+- Choose the field you have the most experience in: not really.
 
-- Choose the field you are most qualified to do.
+- Choose the field you are most qualified to do: not necessarily so.
 
 - ...
 

@@ -22,6 +22,11 @@ bar
 foo
 
 
+## API chaining with Zapier vs IFTTT
+
+bar
+
+
 
 
 
